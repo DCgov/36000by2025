@@ -22,7 +22,7 @@ author:
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
-baseurl: '/economic-intelligence'
+baseurl: '/36k-count'
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: '/assets/img/we-are-wdc.png'
@@ -31,6 +31,9 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+- text: 'Housing Framework for Equity and Growth'
+  internal: true
+  url: https://planning.dc.gov/page/housing-framework-equity-and-growth
 
 # Repo list
 # List repos that you would like to appear on the homepage here
