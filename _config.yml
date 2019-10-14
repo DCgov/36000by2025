@@ -31,33 +31,6 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: 'Intro & Quick Stats'
-  internal: true
-  url: ./
-- text: Population
-  internal: true
-  url: population.html
-- text: Employment and Labor
-  internal: true
-  url: employment-labor.html
-- text: 'Income, Wages, and Taxes'
-  internal: true
-  url: income-wages-taxes.html
-- text: Housing Indicators
-  internal: true
-  url: housing-indicators.html
-- text: Construction Activity
-  internal: true
-  url: construction-activity.html
-- text: Affordable Housing Production and Preservation
-  internal: true
-  url: affordable-production-preservation.html
-- text: DMPED Real Estate Development
-  internal: true
-  url: dmped-real-estate.html
-- text: Economic Development Map
-  internal: false
-  url: http://open.dc.gov/econintel-wardtool/
 
 # Repo list
 # List repos that you would like to appear on the homepage here
