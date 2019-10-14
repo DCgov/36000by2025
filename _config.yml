@@ -1,0 +1,72 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: DMPED Economic Intelligence Dashboard
+subtitle: 'Deputy Mayor for Planning & Economic Development | Muriel Bowser, Mayor'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Office of the Deputy Mayor for Planning and Economic Development
+  url: http://dmped.dc.gov
+
+# When using this template with a project (repository) page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+baseurl: '/economic-intelligence'
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: '/assets/img/we-are-wdc.png'
+logoalt: We Are Washington DC
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: 'Intro & Quick Stats'
+  internal: true
+  url: ./
+- text: Population
+  internal: true
+  url: population.html
+- text: Employment and Labor
+  internal: true
+  url: employment-labor.html
+- text: 'Income, Wages, and Taxes'
+  internal: true
+  url: income-wages-taxes.html
+- text: Housing Indicators
+  internal: true
+  url: housing-indicators.html
+- text: Construction Activity
+  internal: true
+  url: construction-activity.html
+- text: Affordable Housing Production and Preservation
+  internal: true
+  url: affordable-production-preservation.html
+- text: DMPED Real Estate Development
+  internal: true
+  url: dmped-real-estate.html
+- text: Economic Development Map
+  internal: false
+  url: http://open.dc.gov/econintel-wardtool/
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: economic-intelligence
+  description:
+  url: https://github.com/DCgov/economic-intelligence
+
+google_analytics_ua: UA-102780346-1
+
+# Style Variables
+brand_color: "#BF0000"
