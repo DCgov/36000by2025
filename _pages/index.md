@@ -3,6 +3,8 @@ layout: page
 permalink: /
 title: 36,000 Housing Count
 ---
+This dashboard serves as a way of tracking housing production in support of the Mayor’s goal of producing 36,000 new housing units by 2025.  For more information on how the District is working to achieve this goal, please visit 
+<a href=" https://housing.dc.gov/"> https://housing.dc.gov/</a>.  
 
 <div class='tableauPlaceholder' id='viz1571081455934' style='position: relative'><noscript><a href='http:&#47;&#47;open.dc.gov&#47;36k-count&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;36&#47;36KCountdown&#47;36KCountdown&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;36KCountdown&#47;36KCountdown?:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;36&#47;36KCountdown&#47;36KCountdown&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                
 
