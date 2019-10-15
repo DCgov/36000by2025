@@ -31,9 +31,6 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation: 
-- text: 'Housing Framework for Equity and Growth'
-  internal: false
-  url: https://planning.dc.gov/page/housing-framework-equity-and-growth
 
 # Repo list
 # List repos that you would like to appear on the homepage here
