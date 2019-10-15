@@ -24,12 +24,16 @@
             </div>
         </div>
       </header>
-  
-  
+
+      <div class="wrap content">
+
+        {% include sidebar.html %}
+
         <section id="main" class="main-content" role="main">
           {{ content }}
         </section>
 
+      </div><!-- /.wrap content -->
    
       {% include glossary.html %}
 
