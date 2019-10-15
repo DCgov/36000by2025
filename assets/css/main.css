@@ -668,7 +668,7 @@ Desktop Styles
 
     aside {
         width: 30%;
-        float: left;
+        float: none;
     }
 
     .main-content {
