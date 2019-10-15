@@ -669,6 +669,7 @@ Desktop Styles
     aside {
         width: 0%;
         float: none;
+        display: none;
     }
 
     .main-content {
