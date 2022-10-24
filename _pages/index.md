@@ -9,8 +9,8 @@ The purpose of this site is to track housing production in support of the <a hre
 In order to more fully capture the District’s efforts to create new, dedicated affordable housing units and to better align with agency housing goals and strategies the below dashboard was updated as part of the September 2022 monthly update. You can <a href="https://open.dc.gov/36000by2025/new_36k_12k_dashboard_interested_parties_memo_clean.pdf">read more about this update</a> in the attached document.   
 
 <script type='text/javascript' src='https://dataviz1.dc.gov/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' >
-<object class='tableauViz' width='100%' height='6527' style='display:none;'>
+<div class='tableauPlaceholder' style='width: 1680px; height: 885px;'>
+<object class='tableauViz' width='1680' height='885' style='display:none;'>
 <param name='host_url' value='https%3A%2F%2Fdataviz1.dc.gov%2F' /> 
 <param name='embed_code_version' value='3' />
 <param name='site_root' value='&#47;t&#47;OCTO' />
@@ -19,7 +19,7 @@ In order to more fully capture the District’s efforts to create new, dedicated
 <param name='toolbar' value='yes' />
 <param name='showAppBanner' value='false' />
 </object>
-</div>            
+</div>         
 
 
 <b>Note:</b> The September 2022 housing count included an update to the housing count methodology to incorporate 1) projects that create New Affordable Units by placing covenants on existing housing units without an affordability covenant and 2) projects funded through the Housing Preservation Fund that include New Affordable Units.
