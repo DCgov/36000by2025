@@ -8,8 +8,8 @@ The purpose of this site is to track housing production in support of the <a hre
 
 In order to more fully capture the District’s efforts to create new, dedicated affordable housing units and to better align with agency housing goals and strategies the below dashboard was updated as part of the September 2022 monthly update. You can <a href="https://open.dc.gov/36000by2025/new_36k_12k_dashboard_interested_parties_memo_clean.pdf">read more about this update</a> in the attached document.   
 
-<div class='tableauPlaceholder' style='width: 1680px; height: 6827px;'>
-<object class='tableauViz' width='1680' height='6827' style='display:none;'>
+<div class='tableauPlaceholder' style='width: 1000px; height: 6527px;'>
+<object class='tableauViz' width='1000' height='6527'>
 <param name='host_url' value='https%3A%2F%2Fdataviz1.dc.gov%2F' /> 
 <param name='embed_code_version' value='3' />
 <param name='site_root' value='&#47;t&#47;OCTO' />
