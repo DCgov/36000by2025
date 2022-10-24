@@ -10,7 +10,7 @@ In order to more fully capture the District’s efforts to create new, dedicated
 
 <script type='text/javascript' src='https://dataviz1.dc.gov/javascripts/api/viz_v1.js'></script>
 <div class='tableauPlaceholder' >
-<object class='tableauViz' width='100%' height='885' style='display:none;'>
+<object class='tableauViz' width='100%' height='6527' style='display:none;'>
 <param name='host_url' value='https%3A%2F%2Fdataviz1.dc.gov%2F' /> 
 <param name='embed_code_version' value='3' />
 <param name='site_root' value='&#47;t&#47;OCTO' />
